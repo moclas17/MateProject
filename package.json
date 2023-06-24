@@ -18,6 +18,7 @@
   "dependencies": {
     "@ensdomains/ens": "^0.6.2",
     "@ethersproject/address": "^5.7.0",
+    "@lit-protocol/lit-auth-client": "^2.2.26",
     "@xmtp/xmtp-js": "^9.1.6",
     "cloudconvert": "^2.3.4",
     "convertapi": "^1.11.2",
